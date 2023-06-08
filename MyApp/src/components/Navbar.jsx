@@ -17,8 +17,8 @@ const Navbar = () => {
     <div className={darkmode?"dark fixed bottom-0 sm:sticky sm:top-0 w-screen sm:w-[98.9vw] ":"fixed bottom-0 sm:sticky sm:top-0 w-screen sm:w-[98.9vw]"} >
       <div className='flex flex-col bg-white dark:bg-[#111111]'>
 
-        <div className='h-1 bg-gradient-to-r from-[#E39600] via-[#E9517E] via-[#8F48EB] to-[#1DA1F2]'></div>
-        <div className='flex py-5 sm:px-8 border-y border-gray-300 dark:border-[#2E2E2E]'>
+        <div className='h-0.5 sm:h-1 bg-gradient-to-r from-[#E39600] via-[#E9517E] via-[#8F48EB] to-[#1DA1F2]'></div>
+        <div className='flex p-3 sm:py-5 sm:px-8 border-y border-gray-300 dark:border-[#2E2E2E]'>
          <a href='#'><h1 className='hidden sm:flex sm:text-xl font-pacifico dark:text-[#EAEAEA] cursor-pointer'>Vivek Kumar</h1> </a>
          
          <ul className='m-auto gap-3 flex sm:gap-10 font-ibm text-bold leading-6 text-[15px] font-semibold sm:mr-3 dark:text-[#F6F6F6] '>

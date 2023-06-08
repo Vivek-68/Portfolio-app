@@ -60,7 +60,7 @@ const Projects = (props) => {
    <p className='font-ibm sm:text-0.5xl text-gray-600 dark:text-[#ABABAB]  sm:px-16 sm:mb-8 mb-3'>A website for the 4th rendition of NIT Silchar E-Cell's flagship event. </p>
    <p className='font-ibm sm:text-0.5xl text-gray-600 dark:text-[#ABABAB]  sm:px-16 sm:mb-8 mb-3'>The website is being developed using a wide range of tools such as React, Sass, EsLint, Netlify,etc. The website will have a modern look with elegant animations, beautiful fonts, and a user friedly layout.</p>
    <div className='flex mb-8'>
-   <a href='https://thisisvivek.netlify.app/' target='_blank' className='p-1   my-3 font-ibm sm:text-0.5xl text-gray-600 dark:text-[#D9D9D9] flex sm:p-4 sm:py-2 sm:max-w-[25%] sm:mx-16 rounded-full justify-center gap-2 items-center border-2  hover:bg-gray-200 cursor-pointer dark:border-[#2E2E2E] dark:hover:bg-[#2E2E2E] dark:text-[#DBDBDB] dark:bg-[#242424] mr-6'> Srijan-4.0 <FiExternalLink /></a>
+   <a className='p-1   my-3 font-ibm sm:text-0.5xl text-gray-600 dark:text-[#D9D9D9] flex sm:p-4 sm:py-2 sm:max-w-[25%] sm:mx-16 rounded-full justify-center gap-2 items-center border-2  hover:bg-gray-200 cursor-pointer dark:border-[#2E2E2E] dark:hover:bg-[#2E2E2E] dark:text-[#DBDBDB] dark:bg-[#242424] mr-6'> Srijan-4.0 <FiExternalLink /></a>
    <a className='p-1 px-2 my-3 font-ibm sm:text-0.5xl text-gray-600 dark:text-[#D9D9D9] flex sm:p-4 sm:py-2 sm:max-w-[15%] sm:mx-16 rounded-full justify-center gap-2 items-center border-2  hover:bg-gray-200 cursor-pointer dark:border-[#2E2E2E] dark:hover:bg-[#2E2E2E] dark:text-[#DBDBDB] dark:bg-[#242424]'> Github <FiExternalLink /></a>
    </div>
  </div>  

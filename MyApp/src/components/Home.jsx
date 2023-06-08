@@ -15,15 +15,15 @@ const Home = (props) => {
                 <p className='mb-12'>I am Vivek Kumar, an India based web developer and a computer science student at NIT Silchar. I specialise in front-end development using React 
 and TailwindCSS.</p>
             <ul className='flex gap-1 sm:gap-7'>
-<a><li className=' p-2 border-2 border-white rounded-md hover:bg-gray-200 cursor-pointer dark:border-[#111111] dark:hover:bg-[#2E2E2E] dark:hover:text-[#DBDBDB]'>            <BsTwitter className='text-[1.375rem] sm:text-2xl cursor-pointer '/>
+<a href='https://twitter.com/viv_e_k?t=07uG0iAk3c5UMZdPeIIxFQ&s=09' target='_blank' ><li className=' p-2 border-2 border-white rounded-md hover:bg-gray-200 cursor-pointer dark:border-[#111111] dark:hover:bg-[#2E2E2E] dark:hover:text-[#DBDBDB]'>            <BsTwitter className='text-[1.375rem] sm:text-2xl cursor-pointer '/>
 </li></a>
-<a>
+<a href='https://www.facebook.com/profile.php?id=100075924322738&mibextid=ZbWKwL' target='_blank' >
 <li className='p-2 border-2 border-white rounded-md hover:bg-gray-200 cursor-pointer dark:border-[#111111] dark:hover:bg-[#2E2E2E] dark:hover:text-[#DBDBDB]'>            <BsFacebook className='text-[1.375rem] sm:text-2xl cursor-pointer '/>
 </li></a>
-<a><li className='p-2 border-2 border-white rounded-md hover:bg-gray-200 cursor-pointer dark:border-[#111111] dark:hover:bg-[#2E2E2E] dark:hover:text-[#DBDBDB]'>
+<a href='https://github.com/Vivek-68' target='_blank'><li className='p-2 border-2 border-white rounded-md hover:bg-gray-200 cursor-pointer dark:border-[#111111] dark:hover:bg-[#2E2E2E] dark:hover:text-[#DBDBDB]'>
 <BsGithub className='text-[1.375rem] sm:text-2xl cursor-pointer  '/>
 </li> </a>
-<a><li className='p-2 border-2 border-white rounded-md hover:bg-gray-200 cursor-pointer dark:border-[#111111] dark:hover:bg-[#2E2E2E] dark:hover:text-[#DBDBDB]'>
+<a href='https://www.linkedin.com/in/vivek-kumar-21223922a' target='_blank'><li className='p-2 border-2 border-white rounded-md hover:bg-gray-200 cursor-pointer dark:border-[#111111] dark:hover:bg-[#2E2E2E] dark:hover:text-[#DBDBDB]'>
 <BsLinkedin className='text-[1.375rem] sm:text-2xl cursor-pointer  '/>
 </li></a>
 <a className='flex m-auto ml-4 border-2 border-black p-2 px-3 sm:p-2 sm:px-4 rounded-3xl text-semibold text-[14px] sm:text-[16 px] hover:bg-gray-200 cursor-pointer dark:border-[#2E2E2E] dark:hover:bg-[#2E2E2E] dark:text-[#DBDBDB] dark:bg-[#242424]' href='mailto:vivektitan3@gmail.com'>Email me</a>
